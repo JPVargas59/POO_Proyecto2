@@ -1,3 +1,3 @@
-/Users/jp-pc/Documents/ITIt/Segundo semestre/Programacion/archivos/Proyecto 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jp-pc/Documents/ITIt/Segundo semestre/Programacion/archivos/Proyecto 2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jp-pc/Documents/ITIt/Segundo semestre/Programacion/archivos/Proyecto 2/cmake-build-debug/CMakeFiles/Proyecto_2.dir
+/Users/chris/Desktop/POO_Proyecto2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chris/Desktop/POO_Proyecto2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chris/Desktop/POO_Proyecto2/cmake-build-debug/CMakeFiles/Proyecto_2.dir
