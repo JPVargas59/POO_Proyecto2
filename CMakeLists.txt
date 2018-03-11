@@ -3,4 +3,4 @@ project(Proyecto_2)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Proyecto_2 main.cpp Fecha.h Biblioteca.h Alumno.h)
+add_executable(Proyecto_2 main.cpp Alumno.h Fecha.h Libros.h Biblioteca.h)

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chris/Desktop/POO_Proyecto2/Alumno.h
+string
+-
+iostream
+-
+
+/Users/chris/Desktop/POO_Proyecto2/Biblioteca.h
+string
+-
+iostream
+-
+
+/Users/chris/Desktop/POO_Proyecto2/Fecha.h
+iostream
+-
+string
+-
+
+/Users/chris/Desktop/POO_Proyecto2/Libros.h
+string
+-
+Fecha.h
+/Users/chris/Desktop/POO_Proyecto2/Fecha.h
+
+/Users/chris/Desktop/POO_Proyecto2/main.cpp
+iostream
+-
+Libros.h
+/Users/chris/Desktop/POO_Proyecto2/Libros.h
+Biblioteca.h
+/Users/chris/Desktop/POO_Proyecto2/Biblioteca.h
+Alumno.h
+/Users/chris/Desktop/POO_Proyecto2/Alumno.h
+

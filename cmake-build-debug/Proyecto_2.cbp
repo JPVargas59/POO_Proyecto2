@@ -80,13 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/cmake-build-debug/Alumno.h">
+		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/Alumno.h">
 			<Option target="Proyecto_2"/>
 		</Unit>
-		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/cmake-build-debug/Biblioteca.h">
+		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/Biblioteca.h">
 			<Option target="Proyecto_2"/>
 		</Unit>
-		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/cmake-build-debug/Fecha.h">
+		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/Fecha.h">
+			<Option target="Proyecto_2"/>
+		</Unit>
+		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/Libros.h">
 			<Option target="Proyecto_2"/>
 		</Unit>
 		<Unit filename="/Users/chris/Desktop/POO_Proyecto2/main.cpp">
