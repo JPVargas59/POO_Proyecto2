@@ -10,5 +10,7 @@ int main() {
     Alumno alumno[15];
     Libros libros[10];
 
+
+
     return 0;
 }
