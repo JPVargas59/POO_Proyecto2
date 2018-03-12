@@ -6,37 +6,39 @@
 
 #IncludeRegexTransform: 
 
-/Users/chris/Desktop/POO_Proyecto2/Alumno.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Alumno.h
 string
 -
 iostream
 -
 
-/Users/chris/Desktop/POO_Proyecto2/Biblioteca.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Biblioteca.h
 string
 -
 iostream
 -
 
-/Users/chris/Desktop/POO_Proyecto2/Fecha.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Fecha.h
 iostream
 -
 string
 -
 
-/Users/chris/Desktop/POO_Proyecto2/Libros.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Libros.h
 string
 -
 Fecha.h
-/Users/chris/Desktop/POO_Proyecto2/Fecha.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Fecha.h
 
-/Users/chris/Desktop/POO_Proyecto2/main.cpp
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/main.cpp
 iostream
 -
+fstream
+-
 Libros.h
-/Users/chris/Desktop/POO_Proyecto2/Libros.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Libros.h
 Biblioteca.h
-/Users/chris/Desktop/POO_Proyecto2/Biblioteca.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Biblioteca.h
 Alumno.h
-/Users/chris/Desktop/POO_Proyecto2/Alumno.h
+/Users/jp-pc/Documents/ITIt/Segundo semestre/POO_Proyecto2/Alumno.h
 
